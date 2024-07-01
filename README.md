@@ -1,2 +1,2 @@
-# Simple-Authentication-Tutorial-
+# Simple-Authentication-Tutorial
 Authentication project with ExpressJS
